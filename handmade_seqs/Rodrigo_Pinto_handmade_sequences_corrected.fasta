@@ -1,0 +1,25 @@
+>Sequência com 4 ambiguidades:
+ACGSATAAGCCTWCRATCCGH
+
+>1ª possivel sequência sem ambiguidade:
+ACGGATAAGCCTTCAATCCGT
+
+>2ª possivel sequência sem ambiguidade:
+ACGCATAAGCCTACAATCCGA
+
+>3ª possivel sequência sem ambiguidade:
+ACGGATAAGCCTACGATCCGC
+
+>Escolhi a 3ª sequência.
+
+>O reverso da 3ª sequência:
+CGCCTAGCATCCGAATAGGCA
+ 
+>O complemento da 3ª sequência:
+TGCCTATTCGGATGCTAGGCG
+
+>O complemento reverso da 3ª sequência:
+GCGGATCGTAGGCTTATCCGT
+
+>A cadeia de aminoácidos que produz:
+TDKPTIR
